@@ -1,5 +1,6 @@
-from helpers.pdf_funcs import get_pdf_destinations
 from typing import Dict, Iterable, Set
+
+from helpers.pdf_funcs import get_pdf_destinations
 
 
 def get_pdf_files(files: Iterable[str]) -> Set[str]:

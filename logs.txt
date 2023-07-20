@@ -307,3 +307,12 @@ INFO:root:Moved Drawing1.dwl2 to C:\Users\redst\Downloads\CAD Files\Drawing1.dwl
 INFO:root:Moved Drawing1.dwl to C:\Users\redst\Downloads\CAD Files\Drawing1.dwl
 INFO:root:Moved Drawing4.dwl2 to C:\Users\redst\Downloads\CAD Files\Drawing4.dwl2
 INFO:root:Moved Drawing4.dwl to C:\Users\redst\Downloads\CAD Files\Drawing4.dwl
+INFO:root:Files to move: ['22120532_PPD.pdf', '23020129-SITE_PPD (1).pdf', '23020129-SITE_PPD.pdf', 'ASCII Files', 'CAD Files', 'Compressed', 'Images', 'Magellan to Survey.dwg', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
+INFO:root:File Destinations: {'Images': set(), 'Survey Scans': {'23020129-SITE_PPD (1).pdf', '23020129-SITE_PPD.pdf', '22120532_PPD.pdf'}, 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': {'Magellan to Survey.dwg'}, 'ASCII Files': set(), 'Python Files': set()}
+INFO:root:Moved 23020129-SITE_PPD (1).pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD (1).pdf
+INFO:root:Moved 23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf
+INFO:root:Moved 22120532_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22120532_PPD.pdf
+INFO:root:Moved Magellan to Survey.dwg to C:\Users\redst\Downloads\CAD Files\Magellan to Survey.dwg
+INFO:root:Files to move: ['98121786-Model.pdf', 'ASCII Files', 'CAD Files', 'Compressed', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
+INFO:root:File Destinations: {'Images': set(), 'Survey Scans': {'98121786-Model.pdf'}, 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
+INFO:root:Moved 98121786-Model.pdf to C:\Users\redst\Downloads\Survey Scans\98121786-Model.pdf
