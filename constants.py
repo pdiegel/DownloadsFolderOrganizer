@@ -10,7 +10,7 @@ FOLDERS_TO_CREATE = {
     "Misc": "txt csv log exe dmg pkg deb iso img msi html wmz rvt pem jp2 bin",
     "Word Docs": "doc docx",
     "PDFs": "pdf",
-    "CAD Files": "dwg dxf ini bak",
+    "CAD Files": "dwg dxf ini bak dwl dwl2",
     "ASCII Files": "asc",
     "Python Files": "py pyw ipynb json",
 }

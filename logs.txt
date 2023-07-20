@@ -5,3 +5,305 @@ INFO:root:File Destinations: {'Images': set(), 'Survey Scans': set(), 'Compresse
 INFO:root:Moved Develop Remote Instrumentation Site D-6.zip to C:\Users\redst\Downloads\Compressed\Develop Remote Instrumentation Site D-6.zip
 INFO:root:Files to move: ['ASCII Files', 'CAD Files', 'Compressed', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
 INFO:root:File Destinations: {'Images': set(), 'Survey Scans': set(), 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
+INFO:root:Files to move: ['23020129-SITE_PPD.pdf', '23020129-UTILITY-SERVICE-PLAN_PPD.pdf', 'ASCII Files', 'CAD Files', 'Compressed', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
+INFO:root:File Destinations: {'Images': set(), 'Survey Scans': {'23020129-UTILITY-SERVICE-PLAN_PPD.pdf', '23020129-SITE_PPD.pdf'}, 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
+ERROR:root:Error moving C:\Users\redst\Downloads\23020129-UTILITY-SERVICE-PLAN_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-UTILITY-SERVICE-PLAN_PPD.pdf: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\redst\\Downloads\\23020129-UTILITY-SERVICE-PLAN_PPD.pdf' -> 'C:\\Users\\redst\\Downloads\\Survey Scans\\23020129-UTILITY-SERVICE-PLAN_PPD.pdf'
+INFO:root:Moved 23020129-UTILITY-SERVICE-PLAN_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-UTILITY-SERVICE-PLAN_PPD.pdf
+ERROR:root:Error moving C:\Users\redst\Downloads\23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\redst\\Downloads\\23020129-SITE_PPD.pdf' -> 'C:\\Users\\redst\\Downloads\\Survey Scans\\23020129-SITE_PPD.pdf'
+INFO:root:Moved 23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf
+INFO:root:Files to move: ['23020129-SITE_PPD.pdf', '23020129-UTILITY-SERVICE-PLAN_PPD.pdf', 'ASCII Files', 'CAD Files', 'Compressed', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
+INFO:root:File Destinations: {'Images': set(), 'Survey Scans': {'23020129-SITE_PPD.pdf', '23020129-UTILITY-SERVICE-PLAN_PPD.pdf'}, 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
+ERROR:root:Error moving C:\Users\redst\Downloads\23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\redst\\Downloads\\23020129-SITE_PPD.pdf' -> 'C:\\Users\\redst\\Downloads\\Survey Scans\\23020129-SITE_PPD.pdf'
+INFO:root:Moved 23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf
+ERROR:root:Error moving C:\Users\redst\Downloads\23020129-UTILITY-SERVICE-PLAN_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-UTILITY-SERVICE-PLAN_PPD.pdf: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\redst\\Downloads\\23020129-UTILITY-SERVICE-PLAN_PPD.pdf' -> 'C:\\Users\\redst\\Downloads\\Survey Scans\\23020129-UTILITY-SERVICE-PLAN_PPD.pdf'
+INFO:root:Moved 23020129-UTILITY-SERVICE-PLAN_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-UTILITY-SERVICE-PLAN_PPD.pdf
+INFO:root:Files to move: ['23020129-SITE_PPD.pdf', '23020129-UTILITY-SERVICE-PLAN_PPD.pdf', 'ASCII Files', 'CAD Files', 'Compressed', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
+INFO:root:File Destinations: {'Images': set(), 'Survey Scans': {'23020129-SITE_PPD.pdf', '23020129-UTILITY-SERVICE-PLAN_PPD.pdf'}, 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
+ERROR:root:Error moving C:\Users\redst\Downloads\23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\redst\\Downloads\\23020129-SITE_PPD.pdf' -> 'C:\\Users\\redst\\Downloads\\Survey Scans\\23020129-SITE_PPD.pdf'
+INFO:root:Moved 23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf
+ERROR:root:Error moving C:\Users\redst\Downloads\23020129-UTILITY-SERVICE-PLAN_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-UTILITY-SERVICE-PLAN_PPD.pdf: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\redst\\Downloads\\23020129-UTILITY-SERVICE-PLAN_PPD.pdf' -> 'C:\\Users\\redst\\Downloads\\Survey Scans\\23020129-UTILITY-SERVICE-PLAN_PPD.pdf'
+INFO:root:Moved 23020129-UTILITY-SERVICE-PLAN_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-UTILITY-SERVICE-PLAN_PPD.pdf
+INFO:root:Files to move: ['23020129-SITE_PPD.pdf', '23020129-UTILITY-SERVICE-PLAN_PPD.pdf', 'ASCII Files', 'CAD Files', 'Compressed', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
+INFO:root:File Destinations: {'Images': set(), 'Survey Scans': {'23020129-SITE_PPD.pdf', '23020129-UTILITY-SERVICE-PLAN_PPD.pdf'}, 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
+ERROR:root:Error moving C:\Users\redst\Downloads\23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\redst\\Downloads\\23020129-SITE_PPD.pdf' -> 'C:\\Users\\redst\\Downloads\\Survey Scans\\23020129-SITE_PPD.pdf'
+INFO:root:Moved 23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf
+ERROR:root:Error moving C:\Users\redst\Downloads\23020129-UTILITY-SERVICE-PLAN_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-UTILITY-SERVICE-PLAN_PPD.pdf: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\redst\\Downloads\\23020129-UTILITY-SERVICE-PLAN_PPD.pdf' -> 'C:\\Users\\redst\\Downloads\\Survey Scans\\23020129-UTILITY-SERVICE-PLAN_PPD.pdf'
+INFO:root:Moved 23020129-UTILITY-SERVICE-PLAN_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-UTILITY-SERVICE-PLAN_PPD.pdf
+INFO:root:Files to move: ['23020129-SITE_PPD.pdf', '23020129-UTILITY-SERVICE-PLAN_PPD.pdf', 'ASCII Files', 'CAD Files', 'Compressed', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
+INFO:root:File Destinations: {'Images': set(), 'Survey Scans': {'23020129-SITE_PPD.pdf', '23020129-UTILITY-SERVICE-PLAN_PPD.pdf'}, 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
+INFO:root:Moved 23020129-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-SITE_PPD.pdf
+INFO:root:Moved 23020129-UTILITY-SERVICE-PLAN_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-UTILITY-SERVICE-PLAN_PPD.pdf
+INFO:root:Files to move: ['00030418-GWH-Model.pdf', '00080996_TMG-Model.pdf', '00091148-UPDATE_PPD.pdf', '00121416-EMAIL-Model.pdf', '01010200-UPDATE_GMS-Model.pdf', '01020278_TMG-Model.pdf', '01040555_LDP_BDB.pdf', '01040555_LDP_DSZ-Model.pdf', '01070927.pdf', '01091100-FEMA.pdf', '01091100-SPOT_PPD.pdf', '02010114_UPDATE_GWH.pdf', '02040463_TMG-BOUNDARY.pdf', '02050623-FEMA.pdf', '02121333-B-MAFL_PPD.pdf', '03010181-FEMA.pdf', '03020201_GWH-Model.pdf', '03040425-UPDATE_PPD.pdf', '03050503-B_REVISE_RESURVEY_GWH-Model.pdf', '03111163-LDP_PPD.pdf', '03111163_LDP2_PPD.pdf', '04040439 5770 Bahia Vista Street.pdf', '04040439.pdf', '04040439_LL2_PPD.pdf', '04040439_UPDATE-2_BGB-Model.pdf', '04080859-UPDATE_PPD.pdf', '04111040-A_ROUGH-STAKEOUT.pdf', '04111040-A_STAKEOUT.pdf', '04111040-SITE_BDB.pdf', '05060606-UPDATE_GWH.pdf', '05080712-PRELIMINARY.pdf', '05080712-UPDATE_PPD.pdf', '05110895-LDP2_PPD.pdf', '06010125-LDP_PPD.pdf', '06010125-UPDATE_PPD.pdf', '07010128-FEMA.pdf', '07010128_FINAL_LCC-Model.pdf', '08030175-UPDATE_PPD.pdf', '08030175_PROJ_ROD-Model.pdf', '08030175_PROJ_ROD.pdf', '09090433_EMAIL-BDB-Model.pdf', '11010110-CCCL.pdf', '11050271_ROD-Model.pdf', '11090462_ROD-Model.pdf', '12050267-A_GWH.pdf', '12050267-B_GWH.pdf', '12050267-EASEMENT.pdf', '12080410-LDP_PPD.pdf', '12080410-UPDATE_PPD.pdf', '12080417_COMBO_UPDATE4_BGB-2.pdf', '14060306-20 SCALE.pdf', '14060306-NOT TO SCALE.pdf', '14060306_ROD-Model.pdf', '14110447-UPDATE_PPD.pdf', '15010111-SPOT_PPD-Model.pdf', '15060303_GWH-Model.pdf', '15070321_BGB-Model.pdf', '15090387-FEMA.pdf', '15100413_UPDATE_PPD.pdf', '16090373-LDP_PPD.pdf', '16090373-UPDATE_PPD.pdf', '16801.pdf', '17110326-FINAL_KAW.pdf', '1755 8th street.pdf', '18040195-LDP2_PPD.pdf', '18040195-LDP_PPD.pdf', '18040195.pdf', '20040183-A_PPD-Model.pdf', '2022 MASTER2.pdf', '21010109-UPDATE_KAW.pdf', '21010123-REVISED_PPD.pdf', '21020138-FEMA (2).pdf', '21020138-FEMA.pdf', '21020138-FINAL_PPD.pdf', '21020138-LDP_PPD.pdf', '21030180-STAKEOUT.pdf', '21030180_PPD.pdf', '21030187-LDP_PPD.pdf', '21080360-FEMA-REVISED.pdf', '21100415-LDP_PPD.pdf', '21100415-UPDATE_PPD.pdf', '21110471-LDP3_PPD.pdf', '21110471-REVISED-LDP.pdf', '21110488-PRELIMINARY.pdf', '21110488-STAKEOUT2_PPD-Model.pdf', '21110488-STAKEOUT_PPD-Model.pdf', '2115 Couver Drive - Invoice.pdf', '22020144-STAKEOUT3_PPD.pdf', '22030204-PROPOSED_PPD.pdf', '22030213-30SCALE.pdf', '22030213-EMAIL-Model.pdf', '22060296-LDP2_PPD.pdf', '22060296-ROUGH-SO.pdf', '22060296-ROUGH-SO_PPD.pdf', '22060315-FEMA.pdf', '22110484_GWH.pdf', '22110487-LDP2_PPD.pdf', '22110487-SITE_PPD.pdf', '22110487-STAKEOUT.pdf', '22110488_CCCL_GWH-Model.pdf', '22110489 - County Notes.pdf', '22110489-LDP5_PPD.pdf', '22110489-LDP6_PPD.pdf', '22110489-LDP_PPD.pdf', '22110489-STAKEOUT_PPD.pdf', '22110495-SITE2_PPD-Model.pdf', '22110495-SITE2_PPD.pdf', '22110495-STAKEOUT_PPD.pdf', '22120520-PROPOSED_PPD.pdf', '22120532-PROPOSED2.pdf', '22120532-PROPOSED_PPD.pdf', '23010106-STAKEOUT.pdf', '23010106-STAKEOUT_PPD.pdf', '23010106.pdf', '23020119-STAKEOUT2_PPD.pdf', '23020119-STAKEOUT3.pdf', '23020119-STAKEOUT3_PPD.pdf', '23020129-LDP2_PPD-Model.pdf', '23020129-LDP_PPD.pdf', '23020131_GWH.pdf', '23030152-A-SPOT2_PPD.pdf', '23030152-A-SPOT_PPD.pdf', '23030152-B.pdf', '23030152-STAKEOUT_PPD.pdf', '23030152.pdf', '23030153-LDP2_PPD.pdf', '23030153-LDP3_PPD.pdf', '23030153-LDP4_PPD-Model.pdf', '23030153-LDP4_PPD.pdf', '23030153-LDP5_PPD.pdf', '23030161-REVISED_PPD.pdf', '23030161-REVISION2_PPD.pdf', '23040177-PRELIMINARY_PPD.pdf', '23040178_PPD.pdf', '23040180_GWH.pdf', '23040193-FEMA.pdf', '23040193-REVISED_PPD.pdf', '23040193_PPD.pdf', '23040194-FEMA.pdf', '23040194-LDP_PPD.pdf', '23040194-PROPOSED_PPD.pdf', '23040194_GWH.pdf', '23050205-5acre_GWH-Model.pdf', '23050205-PRELIMINARY_GWH.pdf', '23050205.pdf', '23050205_GWH.pdf', '23050206-LDP_PPD.pdf', '23050206-PROPOSED_PPD.pdf', '23050206_PPD.pdf', '23050208-CCCL_GWH-Model.pdf', '23050208_GWH.pdf', '23050209-FEMA.pdf', '23050209-SITE_PPD-Model.pdf', '23050209-STAKEOUT.pdf', '23050214_PPD.pdf', '23050217-LDP_PPD.pdf', '23050217.pdf', '23050217_PPD.pdf', '23050218-PRELIMINARY_GWH.pdf', '23050219-SITE_PPD.pdf', '23050220-LDP_PPD.pdf', '23050224_GWH.pdf', '23060227_PPD.pdf', '23060230-LDP_PPD.pdf', '23060230_PPD.pdf', '23060231_GWH.pdf', '23060232-FEMA.pdf', '23060234-LDP_PPD.pdf', '23060234_PPD.pdf', '23060240-LDP_PPD.pdf', '23060240-SKETCH_PPD.pdf', '23060241_GWH&PPD.pdf', '23060245-FEMA.pdf', '23070248-PRELIMINARY_GWH-Model.pdf', '23070248-REVISED2_GWH-Model.pdf', '23070248-REVISED_GWH.pdf', '23070248-REVISED_PPD.pdf', '23070251_PPD.pdf', '260033.pdf', '340 Oxford Drive - Invoice.pdf', '6080 Deacon - Curb Stakeout.pdf', '682 Mourning Dove - Paid Invoice.pdf', '7589 cove terrace combinepdf - 2022-11-08T165706.024 (1).pdf', '91090378-CULVERT.pdf', '91090378-UPDATE-3.pdf', '91120546_UPDATE_BGB-Model.pdf', '925391-Model.pdf', '93091023_LDP_DSZ-Model.pdf', '95020237-Model.pdf', '95030288.pdf', '96030355-Model.pdf', '96060670-UPDATE2_PPD-Model.pdf', '96060699_FINAL_ROD-Model.pdf', '96091018-UPDATE_PPD.pdf', '97020249.pdf', '97030363-UPDATE_PPD.pdf', '97050620-B2-SPOT_KAW.pdf', '97050665_UPDATE2_ROD-Model.pdf', '97101400.pdf', '97101426-FEMA.pdf', '97101426-Model.pdf', '97111471-PROPOSED_PPD-Model.pdf', '97111471-UPDATE_PPD.pdf', '98050827-UPDATE_PPD.pdf', '98081296-EMAIL-BDB-Model.pdf', '98091401-UPDATE2_GWH-Model.pdf', '98121786-Model.pdf', '99010114-Model.pdf', '99020345-LDP_PPD.pdf', '99020345-PROPOSED_PPD.pdf', '99060811-SITE_PLAN.pdf', '99060811-STAKEOUT.pdf', '99060811-STAKEOUT2-Model.pdf', '99070979-LDP2_PPD.pdf', '99091251.DMI-Model.pdf', 'ACFrOgC9P0QlvzY16R8iF6y1Y_NTrwAgsSOTMvvS-jiXsxD5CyaEyimJaqL7PHDHelhdRlrxq51qsozJUSU6pYXufuJKGJ9JrEeQ7fh77O18IcT60zI-nporSDZGlCw=.pdf', 'ARTICLE 6. - GENERAL, BASE, AND INACTIVE ZONING DISTRICT DEVELOPMENT STANDARDS _ Code of Ordinances _ Sarasota County, FL _ Municode Library.pdf', 'ASCII Files', 'Boundary - Topo .pdf', 'CAD Files', 'CAD Plan Reference - Tidewood.pdf', 'Cobblestone on Palmer Ranch Quote.pdf', 'Compressed', 'Crystal Lakes Curve Data.pdf', 'Drawing1.dwl', 'Drawing1.dwl2', 'Drawing4.dwl', 'Drawing4.dwl2', 'EMAIL - 2004 LONGMEADOW.pdf', 'FF.pdf', 'FIELD NOTES - 2004 LONGMEADOW.pdf', 'HIGHLANDS SUB - 2004 LONGMEADOW.pdf', 'Images', 'img20230512_11115398.pdf', 'img20230515_10434353.pdf', 'img20230515_11033404.pdf', 'img20230515_15100527.pdf', 'img20230516_14171909.pdf', 'img20230517_11435647.pdf', 'img20230523_10512394.pdf', 'img20230524_09402126.pdf', 'img20230524_12213302.pdf', 'img20230525_08532782.pdf', 'img20230602_10021845.pdf', 'img20230620_14412235.pdf', 'img20230710_10075703.pdf', 'JESSMYTH FOR BILL (2)-Model.pdf', 'KEN datE-Model.pdf', 'KEN Seal-Model-1.png', 'KEN Seal-Model.pdf', 'KEN SIGNATURE-Model-1.png', 'KEN SIGNATURE-Model.pdf', 'Meuser Floor Plans (1).pdf', 'Meuser Floor Plans (4).pdf', 'Misc', 'ml-latest', 'ml-latest-small', 'NEW 2022 MASTER.pdf', 'NextDocument (1).pdf', 'NextDocument (2).pdf', 'NextDocument.pdf', 'O.R. Instrument 2003152098.pdf', 'OR.pdf', 'PDFs', 'plot.log', 'PREVIOUS 5 ACRE MARK.pdf', 'Python Files', 'REVISED 5 ACRE MARK.pdf', 'S-3.pdf', 'S-34.pdf', 'S-4 (2).pdf', 'section map.pdf', 'STANTEC SURVEY - 2004 LONGMEADOW.pdf', 'Survey Scans', 'TEST.pdf', 'TEST2.pdf', 'testmaster2.pdf', 'THE MEADOWS SUB - 2004 LONGMEADOW.pdf', 'ViewTiff.aspx.pdf', 'WILD HORSE - LOT 16-Model.pdf', 'Word Docs']
+INFO:root:File Destinations: {'Images': {'KEN Seal-Model-1.png', 'KEN SIGNATURE-Model-1.png'}, 'Survey Scans': {'22120520-PROPOSED_PPD.pdf', '23060227_PPD.pdf', '23060230-LDP_PPD.pdf', '01040555_LDP_DSZ-Model.pdf', '00091148-UPDATE_PPD.pdf', '23070248-REVISED_GWH.pdf', '23010106-STAKEOUT_PPD.pdf', '23050205_GWH.pdf', '23060240-LDP_PPD.pdf', '99020345-LDP_PPD.pdf', '03050503-B_REVISE_RESURVEY_GWH-Model.pdf', '23050205.pdf', '23060230_PPD.pdf', '03040425-UPDATE_PPD.pdf', '11090462_ROD-Model.pdf', '03020201_GWH-Model.pdf', '07010128_FINAL_LCC-Model.pdf', '21100415-LDP_PPD.pdf', '22030213-30SCALE.pdf', '23030152-A-SPOT2_PPD.pdf', '23010106-STAKEOUT.pdf', '21110488-STAKEOUT_PPD-Model.pdf', '23030152-A-SPOT_PPD.pdf', '22110487-LDP2_PPD.pdf', '98121786-Model.pdf', '21110488-STAKEOUT2_PPD-Model.pdf', '08030175-UPDATE_PPD.pdf', '03111163_LDP2_PPD.pdf', '22060296-LDP2_PPD.pdf', '99020345-PROPOSED_PPD.pdf', '95020237-Model.pdf', '97101426-Model.pdf', '23040194-LDP_PPD.pdf', '23060231_GWH.pdf', '08030175_PROJ_ROD.pdf', '23050214_PPD.pdf', '02121333-B-MAFL_PPD.pdf', '15010111-SPOT_PPD-Model.pdf', '23050217-LDP_PPD.pdf', '15090387-FEMA.pdf', '23060234_PPD.pdf', '91090378-UPDATE-3.pdf', '23010106.pdf', '18040195-LDP_PPD.pdf', '01070927.pdf', '23050217.pdf', '23060240-SKETCH_PPD.pdf', '98091401-UPDATE2_GWH-Model.pdf', '04111040-A_ROUGH-STAKEOUT.pdf', '23060234-LDP_PPD.pdf', '23050209-FEMA.pdf', '23020131_GWH.pdf', '23050224_GWH.pdf', '23030161-REVISED_PPD.pdf', '97050620-B2-SPOT_KAW.pdf', '16090373-LDP_PPD.pdf', '22110489-LDP6_PPD.pdf', '23030153-LDP4_PPD-Model.pdf', '96060670-UPDATE2_PPD-Model.pdf', '21030187-LDP_PPD.pdf', '96030355-Model.pdf', '23030152.pdf', '23060232-FEMA.pdf', '98050827-UPDATE_PPD.pdf', '14110447-UPDATE_PPD.pdf', '23030161-REVISION2_PPD.pdf', '07010128-FEMA.pdf', '23060241_GWH&PPD.pdf', '22020144-STAKEOUT3_PPD.pdf', '97050665_UPDATE2_ROD-Model.pdf', '23050209-SITE_PPD-Model.pdf', '98081296-EMAIL-BDB-Model.pdf', '06010125-LDP_PPD.pdf', '23020129-LDP2_PPD-Model.pdf', '97030363-UPDATE_PPD.pdf', '99010114-Model.pdf', '01091100-FEMA.pdf', '17110326-FINAL_KAW.pdf', '95030288.pdf', '21020138-FEMA (2).pdf', '18040195.pdf', '21020138-LDP_PPD.pdf', '11010110-CCCL.pdf', '01010200-UPDATE_GMS-Model.pdf', '01040555_LDP_BDB.pdf', '12080410-UPDATE_PPD.pdf', '23040193-REVISED_PPD.pdf', '97111471-UPDATE_PPD.pdf', '23050205-5acre_GWH-Model.pdf', '99060811-STAKEOUT.pdf', '99060811-SITE_PLAN.pdf', '22110495-SITE2_PPD.pdf', '23050209-STAKEOUT.pdf', '21110471-LDP3_PPD.pdf', '12050267-A_GWH.pdf', '14060306-NOT TO SCALE.pdf', '21010123-REVISED_PPD.pdf', '22110489 - County Notes.pdf', '22110495-SITE2_PPD-Model.pdf', '02050623-FEMA.pdf', '99070979-LDP2_PPD.pdf', '23020129-LDP_PPD.pdf', '04080859-UPDATE_PPD.pdf', '21010109-UPDATE_KAW.pdf', '23050208-CCCL_GWH-Model.pdf', '03111163-LDP_PPD.pdf', '22110487-STAKEOUT.pdf', '22110489-LDP_PPD.pdf', '23050206_PPD.pdf', '06010125-UPDATE_PPD.pdf', '23060245-FEMA.pdf', '96091018-UPDATE_PPD.pdf', '15070321_BGB-Model.pdf', '97101426-FEMA.pdf', '12050267-B_GWH.pdf', '23040193-FEMA.pdf', '23040177-PRELIMINARY_PPD.pdf', '22110495-STAKEOUT_PPD.pdf', '04040439 5770 Bahia Vista Street.pdf', '03010181-FEMA.pdf', '91090378-CULVERT.pdf', '23040193_PPD.pdf', '23040194-FEMA.pdf', '23050208_GWH.pdf', '04111040-SITE_BDB.pdf', '22120532-PROPOSED2.pdf', '22120532-PROPOSED_PPD.pdf', '05080712-UPDATE_PPD.pdf', '14060306_ROD-Model.pdf', '22060296-ROUGH-SO.pdf', '23070248-PRELIMINARY_GWH-Model.pdf', '23040178_PPD.pdf', '20040183-A_PPD-Model.pdf', '23040180_GWH.pdf', '22030213-EMAIL-Model.pdf', '91120546_UPDATE_BGB-Model.pdf', '22060315-FEMA.pdf', '22110484_GWH.pdf', '23030153-LDP4_PPD.pdf', '23050219-SITE_PPD.pdf', '04040439_UPDATE-2_BGB-Model.pdf', '08030175_PROJ_ROD-Model.pdf', '16090373-UPDATE_PPD.pdf', '22110489-LDP5_PPD.pdf', '23040194_GWH.pdf', '21110471-REVISED-LDP.pdf', '23020119-STAKEOUT2_PPD.pdf', '23050218-PRELIMINARY_GWH.pdf', '21030180-STAKEOUT.pdf', '05110895-LDP2_PPD.pdf', '22110487-SITE_PPD.pdf', '04040439_LL2_PPD.pdf', '23070248-REVISED_PPD.pdf', '12080417_COMBO_UPDATE4_BGB-2.pdf', '11050271_ROD-Model.pdf', '21030180_PPD.pdf', '21110488-PRELIMINARY.pdf', '23040194-PROPOSED_PPD.pdf', '23050206-PROPOSED_PPD.pdf', '01020278_TMG-Model.pdf', '00030418-GWH-Model.pdf', '00080996_TMG-Model.pdf', '22110489-STAKEOUT_PPD.pdf', '23030152-B.pdf', '04040439.pdf', '18040195-LDP2_PPD.pdf', '12050267-EASEMENT.pdf', '23070251_PPD.pdf', '21020138-FINAL_PPD.pdf', '21020138-FEMA.pdf', '96060699_FINAL_ROD-Model.pdf', '22030204-PROPOSED_PPD.pdf', '97020249.pdf', '21080360-FEMA-REVISED.pdf', '23020119-STAKEOUT3_PPD.pdf', '99091251.DMI-Model.pdf', '02040463_TMG-BOUNDARY.pdf', '05060606-UPDATE_GWH.pdf', '22110488_CCCL_GWH-Model.pdf', '01091100-SPOT_PPD.pdf', '97101400.pdf', '15060303_GWH-Model.pdf', '23050205-PRELIMINARY_GWH.pdf', '00121416-EMAIL-Model.pdf', '12080410-LDP_PPD.pdf', '99060811-STAKEOUT2-Model.pdf', '23030153-LDP2_PPD.pdf', '23030153-LDP3_PPD.pdf', '23050217_PPD.pdf', '14060306-20 SCALE.pdf', '23020119-STAKEOUT3.pdf', '09090433_EMAIL-BDB-Model.pdf', '02010114_UPDATE_GWH.pdf', '97111471-PROPOSED_PPD-Model.pdf', '04111040-A_STAKEOUT.pdf', '23050206-LDP_PPD.pdf', '23070248-REVISED2_GWH-Model.pdf', '93091023_LDP_DSZ-Model.pdf', '05080712-PRELIMINARY.pdf', '21100415-UPDATE_PPD.pdf', '23050220-LDP_PPD.pdf', '23030152-STAKEOUT_PPD.pdf', '15100413_UPDATE_PPD.pdf', '23030153-LDP5_PPD.pdf', '22060296-ROUGH-SO_PPD.pdf'}, 'Compressed': set(), 'Misc': {'plot.log'}, 'Word Docs': set(), 'PDFs': {'testmaster2.pdf', 'Meuser Floor Plans (4).pdf', 'Boundary - Topo .pdf', 'S-3.pdf', 'FF.pdf', 'Crystal Lakes Curve Data.pdf', 'ViewTiff.aspx.pdf', 'TEST2.pdf', 'WILD HORSE - LOT 16-Model.pdf', 'HIGHLANDS SUB - 2004 LONGMEADOW.pdf', 'KEN datE-Model.pdf', 'img20230620_14412235.pdf', 'Meuser Floor Plans (1).pdf', 'Cobblestone on Palmer Ranch Quote.pdf', 'FIELD NOTES - 2004 LONGMEADOW.pdf', '260033.pdf', 'img20230524_09402126.pdf', 'section map.pdf', 'img20230516_14171909.pdf', 'O.R. Instrument 2003152098.pdf', '340 Oxford Drive - Invoice.pdf', '2115 Couver Drive - Invoice.pdf', 'OR.pdf', 'PREVIOUS 5 ACRE MARK.pdf', 'NextDocument (2).pdf', '7589 cove terrace combinepdf - 2022-11-08T165706.024 (1).pdf', 'img20230523_10512394.pdf', 'THE MEADOWS SUB - 2004 LONGMEADOW.pdf', 'S-34.pdf', 'img20230515_10434353.pdf', 'NextDocument (1).pdf', 'img20230524_12213302.pdf', '2022 MASTER2.pdf', '16801.pdf', '682 Mourning Dove - Paid Invoice.pdf', 'KEN Seal-Model.pdf', 'ARTICLE 6. - GENERAL, BASE, AND INACTIVE ZONING DISTRICT DEVELOPMENT STANDARDS _ Code of Ordinances _ Sarasota County, FL _ Municode Library.pdf', 'REVISED 5 ACRE MARK.pdf', 'NextDocument.pdf', 'S-4 (2).pdf', 'JESSMYTH FOR BILL (2)-Model.pdf', '1755 8th street.pdf', 'TEST.pdf', 'STANTEC SURVEY - 2004 LONGMEADOW.pdf', 'EMAIL - 2004 LONGMEADOW.pdf', 'KEN SIGNATURE-Model.pdf', '6080 Deacon - Curb Stakeout.pdf', 'img20230710_10075703.pdf', 'NEW 2022 MASTER.pdf', 'img20230525_08532782.pdf', '925391-Model.pdf', 'img20230517_11435647.pdf', 'CAD Plan Reference - Tidewood.pdf', 'ACFrOgC9P0QlvzY16R8iF6y1Y_NTrwAgsSOTMvvS-jiXsxD5CyaEyimJaqL7PHDHelhdRlrxq51qsozJUSU6pYXufuJKGJ9JrEeQ7fh77O18IcT60zI-nporSDZGlCw=.pdf', 'img20230512_11115398.pdf', 'img20230515_15100527.pdf', 'img20230602_10021845.pdf', 'img20230515_11033404.pdf'}, 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
+INFO:root:Moved KEN Seal-Model-1.png to C:\Users\redst\Downloads\Images\KEN Seal-Model-1.png
+INFO:root:Moved KEN SIGNATURE-Model-1.png to C:\Users\redst\Downloads\Images\KEN SIGNATURE-Model-1.png
+INFO:root:Moved 22120520-PROPOSED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22120520-PROPOSED_PPD.pdf
+INFO:root:Moved 23060227_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23060227_PPD.pdf
+INFO:root:Moved 23060230-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23060230-LDP_PPD.pdf
+INFO:root:Moved 01040555_LDP_DSZ-Model.pdf to C:\Users\redst\Downloads\Survey Scans\01040555_LDP_DSZ-Model.pdf
+INFO:root:Moved 00091148-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\00091148-UPDATE_PPD.pdf
+INFO:root:Moved 23070248-REVISED_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23070248-REVISED_GWH.pdf
+INFO:root:Moved 23010106-STAKEOUT_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23010106-STAKEOUT_PPD.pdf
+INFO:root:Moved 23050205_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23050205_GWH.pdf
+INFO:root:Moved 23060240-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23060240-LDP_PPD.pdf
+INFO:root:Moved 99020345-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\99020345-LDP_PPD.pdf
+INFO:root:Moved 03050503-B_REVISE_RESURVEY_GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\03050503-B_REVISE_RESURVEY_GWH-Model.pdf
+INFO:root:Moved 23050205.pdf to C:\Users\redst\Downloads\Survey Scans\23050205.pdf
+INFO:root:Moved 23060230_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23060230_PPD.pdf
+INFO:root:Moved 03040425-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\03040425-UPDATE_PPD.pdf
+INFO:root:Moved 11090462_ROD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\11090462_ROD-Model.pdf
+INFO:root:Moved 03020201_GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\03020201_GWH-Model.pdf
+INFO:root:Moved 07010128_FINAL_LCC-Model.pdf to C:\Users\redst\Downloads\Survey Scans\07010128_FINAL_LCC-Model.pdf
+INFO:root:Moved 21100415-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\21100415-LDP_PPD.pdf
+INFO:root:Moved 22030213-30SCALE.pdf to C:\Users\redst\Downloads\Survey Scans\22030213-30SCALE.pdf
+INFO:root:Moved 23030152-A-SPOT2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23030152-A-SPOT2_PPD.pdf
+INFO:root:Moved 23010106-STAKEOUT.pdf to C:\Users\redst\Downloads\Survey Scans\23010106-STAKEOUT.pdf
+INFO:root:Moved 21110488-STAKEOUT_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\21110488-STAKEOUT_PPD-Model.pdf
+INFO:root:Moved 23030152-A-SPOT_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23030152-A-SPOT_PPD.pdf
+INFO:root:Moved 22110487-LDP2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22110487-LDP2_PPD.pdf
+INFO:root:Moved 98121786-Model.pdf to C:\Users\redst\Downloads\Survey Scans\98121786-Model.pdf
+INFO:root:Moved 21110488-STAKEOUT2_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\21110488-STAKEOUT2_PPD-Model.pdf
+INFO:root:Moved 08030175-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\08030175-UPDATE_PPD.pdf
+INFO:root:Moved 03111163_LDP2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\03111163_LDP2_PPD.pdf
+INFO:root:Moved 22060296-LDP2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22060296-LDP2_PPD.pdf
+INFO:root:Moved 99020345-PROPOSED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\99020345-PROPOSED_PPD.pdf
+INFO:root:Moved 95020237-Model.pdf to C:\Users\redst\Downloads\Survey Scans\95020237-Model.pdf
+INFO:root:Moved 97101426-Model.pdf to C:\Users\redst\Downloads\Survey Scans\97101426-Model.pdf
+INFO:root:Moved 23040194-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23040194-LDP_PPD.pdf
+INFO:root:Moved 23060231_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23060231_GWH.pdf
+INFO:root:Moved 08030175_PROJ_ROD.pdf to C:\Users\redst\Downloads\Survey Scans\08030175_PROJ_ROD.pdf
+INFO:root:Moved 23050214_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23050214_PPD.pdf
+INFO:root:Moved 02121333-B-MAFL_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\02121333-B-MAFL_PPD.pdf
+INFO:root:Moved 15010111-SPOT_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\15010111-SPOT_PPD-Model.pdf
+INFO:root:Moved 23050217-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23050217-LDP_PPD.pdf
+INFO:root:Moved 15090387-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\15090387-FEMA.pdf
+INFO:root:Moved 23060234_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23060234_PPD.pdf
+INFO:root:Moved 91090378-UPDATE-3.pdf to C:\Users\redst\Downloads\Survey Scans\91090378-UPDATE-3.pdf
+INFO:root:Moved 23010106.pdf to C:\Users\redst\Downloads\Survey Scans\23010106.pdf
+INFO:root:Moved 18040195-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\18040195-LDP_PPD.pdf
+INFO:root:Moved 01070927.pdf to C:\Users\redst\Downloads\Survey Scans\01070927.pdf
+INFO:root:Moved 23050217.pdf to C:\Users\redst\Downloads\Survey Scans\23050217.pdf
+INFO:root:Moved 23060240-SKETCH_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23060240-SKETCH_PPD.pdf
+INFO:root:Moved 98091401-UPDATE2_GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\98091401-UPDATE2_GWH-Model.pdf
+INFO:root:Moved 04111040-A_ROUGH-STAKEOUT.pdf to C:\Users\redst\Downloads\Survey Scans\04111040-A_ROUGH-STAKEOUT.pdf
+INFO:root:Moved 23060234-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23060234-LDP_PPD.pdf
+INFO:root:Moved 23050209-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\23050209-FEMA.pdf
+INFO:root:Moved 23020131_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23020131_GWH.pdf
+INFO:root:Moved 23050224_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23050224_GWH.pdf
+INFO:root:Moved 23030161-REVISED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23030161-REVISED_PPD.pdf
+INFO:root:Moved 97050620-B2-SPOT_KAW.pdf to C:\Users\redst\Downloads\Survey Scans\97050620-B2-SPOT_KAW.pdf
+INFO:root:Moved 16090373-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\16090373-LDP_PPD.pdf
+INFO:root:Moved 22110489-LDP6_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22110489-LDP6_PPD.pdf
+INFO:root:Moved 23030153-LDP4_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\23030153-LDP4_PPD-Model.pdf
+INFO:root:Moved 96060670-UPDATE2_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\96060670-UPDATE2_PPD-Model.pdf
+INFO:root:Moved 21030187-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\21030187-LDP_PPD.pdf
+INFO:root:Moved 96030355-Model.pdf to C:\Users\redst\Downloads\Survey Scans\96030355-Model.pdf
+INFO:root:Moved 23030152.pdf to C:\Users\redst\Downloads\Survey Scans\23030152.pdf
+INFO:root:Moved 23060232-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\23060232-FEMA.pdf
+INFO:root:Moved 98050827-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\98050827-UPDATE_PPD.pdf
+INFO:root:Moved 14110447-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\14110447-UPDATE_PPD.pdf
+INFO:root:Moved 23030161-REVISION2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23030161-REVISION2_PPD.pdf
+INFO:root:Moved 07010128-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\07010128-FEMA.pdf
+INFO:root:Moved 23060241_GWH&PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23060241_GWH&PPD.pdf
+INFO:root:Moved 22020144-STAKEOUT3_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22020144-STAKEOUT3_PPD.pdf
+INFO:root:Moved 97050665_UPDATE2_ROD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\97050665_UPDATE2_ROD-Model.pdf
+INFO:root:Moved 23050209-SITE_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\23050209-SITE_PPD-Model.pdf
+INFO:root:Moved 98081296-EMAIL-BDB-Model.pdf to C:\Users\redst\Downloads\Survey Scans\98081296-EMAIL-BDB-Model.pdf
+INFO:root:Moved 06010125-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\06010125-LDP_PPD.pdf
+INFO:root:Moved 23020129-LDP2_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-LDP2_PPD-Model.pdf
+INFO:root:Moved 97030363-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\97030363-UPDATE_PPD.pdf
+INFO:root:Moved 99010114-Model.pdf to C:\Users\redst\Downloads\Survey Scans\99010114-Model.pdf
+INFO:root:Moved 01091100-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\01091100-FEMA.pdf
+INFO:root:Moved 17110326-FINAL_KAW.pdf to C:\Users\redst\Downloads\Survey Scans\17110326-FINAL_KAW.pdf
+INFO:root:Moved 95030288.pdf to C:\Users\redst\Downloads\Survey Scans\95030288.pdf
+INFO:root:Moved 21020138-FEMA (2).pdf to C:\Users\redst\Downloads\Survey Scans\21020138-FEMA (2).pdf
+INFO:root:Moved 18040195.pdf to C:\Users\redst\Downloads\Survey Scans\18040195.pdf
+INFO:root:Moved 21020138-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\21020138-LDP_PPD.pdf
+INFO:root:Moved 11010110-CCCL.pdf to C:\Users\redst\Downloads\Survey Scans\11010110-CCCL.pdf
+INFO:root:Moved 01010200-UPDATE_GMS-Model.pdf to C:\Users\redst\Downloads\Survey Scans\01010200-UPDATE_GMS-Model.pdf
+INFO:root:Moved 01040555_LDP_BDB.pdf to C:\Users\redst\Downloads\Survey Scans\01040555_LDP_BDB.pdf
+INFO:root:Moved 12080410-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\12080410-UPDATE_PPD.pdf
+INFO:root:Moved 23040193-REVISED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23040193-REVISED_PPD.pdf
+INFO:root:Moved 97111471-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\97111471-UPDATE_PPD.pdf
+INFO:root:Moved 23050205-5acre_GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\23050205-5acre_GWH-Model.pdf
+INFO:root:Moved 99060811-STAKEOUT.pdf to C:\Users\redst\Downloads\Survey Scans\99060811-STAKEOUT.pdf
+INFO:root:Moved 99060811-SITE_PLAN.pdf to C:\Users\redst\Downloads\Survey Scans\99060811-SITE_PLAN.pdf
+INFO:root:Moved 22110495-SITE2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22110495-SITE2_PPD.pdf
+INFO:root:Moved 23050209-STAKEOUT.pdf to C:\Users\redst\Downloads\Survey Scans\23050209-STAKEOUT.pdf
+INFO:root:Moved 21110471-LDP3_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\21110471-LDP3_PPD.pdf
+INFO:root:Moved 12050267-A_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\12050267-A_GWH.pdf
+INFO:root:Moved 14060306-NOT TO SCALE.pdf to C:\Users\redst\Downloads\Survey Scans\14060306-NOT TO SCALE.pdf
+INFO:root:Moved 21010123-REVISED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\21010123-REVISED_PPD.pdf
+INFO:root:Moved 22110489 - County Notes.pdf to C:\Users\redst\Downloads\Survey Scans\22110489 - County Notes.pdf
+INFO:root:Moved 22110495-SITE2_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\22110495-SITE2_PPD-Model.pdf
+INFO:root:Moved 02050623-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\02050623-FEMA.pdf
+INFO:root:Moved 99070979-LDP2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\99070979-LDP2_PPD.pdf
+INFO:root:Moved 23020129-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020129-LDP_PPD.pdf
+INFO:root:Moved 04080859-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\04080859-UPDATE_PPD.pdf
+INFO:root:Moved 21010109-UPDATE_KAW.pdf to C:\Users\redst\Downloads\Survey Scans\21010109-UPDATE_KAW.pdf
+INFO:root:Moved 23050208-CCCL_GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\23050208-CCCL_GWH-Model.pdf
+INFO:root:Moved 03111163-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\03111163-LDP_PPD.pdf
+INFO:root:Moved 22110487-STAKEOUT.pdf to C:\Users\redst\Downloads\Survey Scans\22110487-STAKEOUT.pdf
+INFO:root:Moved 22110489-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22110489-LDP_PPD.pdf
+INFO:root:Moved 23050206_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23050206_PPD.pdf
+INFO:root:Moved 06010125-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\06010125-UPDATE_PPD.pdf
+INFO:root:Moved 23060245-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\23060245-FEMA.pdf
+INFO:root:Moved 96091018-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\96091018-UPDATE_PPD.pdf
+INFO:root:Moved 15070321_BGB-Model.pdf to C:\Users\redst\Downloads\Survey Scans\15070321_BGB-Model.pdf
+INFO:root:Moved 97101426-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\97101426-FEMA.pdf
+INFO:root:Moved 12050267-B_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\12050267-B_GWH.pdf
+INFO:root:Moved 23040193-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\23040193-FEMA.pdf
+INFO:root:Moved 23040177-PRELIMINARY_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23040177-PRELIMINARY_PPD.pdf
+INFO:root:Moved 22110495-STAKEOUT_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22110495-STAKEOUT_PPD.pdf
+INFO:root:Moved 04040439 5770 Bahia Vista Street.pdf to C:\Users\redst\Downloads\Survey Scans\04040439 5770 Bahia Vista Street.pdf
+INFO:root:Moved 03010181-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\03010181-FEMA.pdf
+INFO:root:Moved 91090378-CULVERT.pdf to C:\Users\redst\Downloads\Survey Scans\91090378-CULVERT.pdf
+INFO:root:Moved 23040193_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23040193_PPD.pdf
+INFO:root:Moved 23040194-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\23040194-FEMA.pdf
+INFO:root:Moved 23050208_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23050208_GWH.pdf
+INFO:root:Moved 04111040-SITE_BDB.pdf to C:\Users\redst\Downloads\Survey Scans\04111040-SITE_BDB.pdf
+INFO:root:Moved 22120532-PROPOSED2.pdf to C:\Users\redst\Downloads\Survey Scans\22120532-PROPOSED2.pdf
+INFO:root:Moved 22120532-PROPOSED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22120532-PROPOSED_PPD.pdf
+INFO:root:Moved 05080712-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\05080712-UPDATE_PPD.pdf
+INFO:root:Moved 14060306_ROD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\14060306_ROD-Model.pdf
+INFO:root:Moved 22060296-ROUGH-SO.pdf to C:\Users\redst\Downloads\Survey Scans\22060296-ROUGH-SO.pdf
+INFO:root:Moved 23070248-PRELIMINARY_GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\23070248-PRELIMINARY_GWH-Model.pdf
+INFO:root:Moved 23040178_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23040178_PPD.pdf
+INFO:root:Moved 20040183-A_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\20040183-A_PPD-Model.pdf
+INFO:root:Moved 23040180_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23040180_GWH.pdf
+INFO:root:Moved 22030213-EMAIL-Model.pdf to C:\Users\redst\Downloads\Survey Scans\22030213-EMAIL-Model.pdf
+INFO:root:Moved 91120546_UPDATE_BGB-Model.pdf to C:\Users\redst\Downloads\Survey Scans\91120546_UPDATE_BGB-Model.pdf
+INFO:root:Moved 22060315-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\22060315-FEMA.pdf
+INFO:root:Moved 22110484_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\22110484_GWH.pdf
+INFO:root:Moved 23030153-LDP4_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23030153-LDP4_PPD.pdf
+INFO:root:Moved 23050219-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23050219-SITE_PPD.pdf
+INFO:root:Moved 04040439_UPDATE-2_BGB-Model.pdf to C:\Users\redst\Downloads\Survey Scans\04040439_UPDATE-2_BGB-Model.pdf
+INFO:root:Moved 08030175_PROJ_ROD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\08030175_PROJ_ROD-Model.pdf
+INFO:root:Moved 16090373-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\16090373-UPDATE_PPD.pdf
+INFO:root:Moved 22110489-LDP5_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22110489-LDP5_PPD.pdf
+INFO:root:Moved 23040194_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23040194_GWH.pdf
+INFO:root:Moved 21110471-REVISED-LDP.pdf to C:\Users\redst\Downloads\Survey Scans\21110471-REVISED-LDP.pdf
+INFO:root:Moved 23020119-STAKEOUT2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020119-STAKEOUT2_PPD.pdf
+INFO:root:Moved 23050218-PRELIMINARY_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23050218-PRELIMINARY_GWH.pdf
+INFO:root:Moved 21030180-STAKEOUT.pdf to C:\Users\redst\Downloads\Survey Scans\21030180-STAKEOUT.pdf
+INFO:root:Moved 05110895-LDP2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\05110895-LDP2_PPD.pdf
+INFO:root:Moved 22110487-SITE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22110487-SITE_PPD.pdf
+INFO:root:Moved 04040439_LL2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\04040439_LL2_PPD.pdf
+INFO:root:Moved 23070248-REVISED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23070248-REVISED_PPD.pdf
+INFO:root:Moved 12080417_COMBO_UPDATE4_BGB-2.pdf to C:\Users\redst\Downloads\Survey Scans\12080417_COMBO_UPDATE4_BGB-2.pdf
+INFO:root:Moved 11050271_ROD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\11050271_ROD-Model.pdf
+INFO:root:Moved 21030180_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\21030180_PPD.pdf
+INFO:root:Moved 21110488-PRELIMINARY.pdf to C:\Users\redst\Downloads\Survey Scans\21110488-PRELIMINARY.pdf
+INFO:root:Moved 23040194-PROPOSED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23040194-PROPOSED_PPD.pdf
+INFO:root:Moved 23050206-PROPOSED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23050206-PROPOSED_PPD.pdf
+INFO:root:Moved 01020278_TMG-Model.pdf to C:\Users\redst\Downloads\Survey Scans\01020278_TMG-Model.pdf
+INFO:root:Moved 00030418-GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\00030418-GWH-Model.pdf
+INFO:root:Moved 00080996_TMG-Model.pdf to C:\Users\redst\Downloads\Survey Scans\00080996_TMG-Model.pdf
+INFO:root:Moved 22110489-STAKEOUT_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22110489-STAKEOUT_PPD.pdf
+INFO:root:Moved 23030152-B.pdf to C:\Users\redst\Downloads\Survey Scans\23030152-B.pdf
+INFO:root:Moved 04040439.pdf to C:\Users\redst\Downloads\Survey Scans\04040439.pdf
+INFO:root:Moved 18040195-LDP2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\18040195-LDP2_PPD.pdf
+INFO:root:Moved 12050267-EASEMENT.pdf to C:\Users\redst\Downloads\Survey Scans\12050267-EASEMENT.pdf
+INFO:root:Moved 23070251_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23070251_PPD.pdf
+INFO:root:Moved 21020138-FINAL_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\21020138-FINAL_PPD.pdf
+INFO:root:Moved 21020138-FEMA.pdf to C:\Users\redst\Downloads\Survey Scans\21020138-FEMA.pdf
+INFO:root:Moved 96060699_FINAL_ROD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\96060699_FINAL_ROD-Model.pdf
+INFO:root:Moved 22030204-PROPOSED_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22030204-PROPOSED_PPD.pdf
+INFO:root:Moved 97020249.pdf to C:\Users\redst\Downloads\Survey Scans\97020249.pdf
+INFO:root:Moved 21080360-FEMA-REVISED.pdf to C:\Users\redst\Downloads\Survey Scans\21080360-FEMA-REVISED.pdf
+INFO:root:Moved 23020119-STAKEOUT3_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23020119-STAKEOUT3_PPD.pdf
+INFO:root:Moved 99091251.DMI-Model.pdf to C:\Users\redst\Downloads\Survey Scans\99091251.DMI-Model.pdf
+INFO:root:Moved 02040463_TMG-BOUNDARY.pdf to C:\Users\redst\Downloads\Survey Scans\02040463_TMG-BOUNDARY.pdf
+INFO:root:Moved 05060606-UPDATE_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\05060606-UPDATE_GWH.pdf
+INFO:root:Moved 22110488_CCCL_GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\22110488_CCCL_GWH-Model.pdf
+INFO:root:Moved 01091100-SPOT_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\01091100-SPOT_PPD.pdf
+INFO:root:Moved 97101400.pdf to C:\Users\redst\Downloads\Survey Scans\97101400.pdf
+INFO:root:Moved 15060303_GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\15060303_GWH-Model.pdf
+INFO:root:Moved 23050205-PRELIMINARY_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\23050205-PRELIMINARY_GWH.pdf
+INFO:root:Moved 00121416-EMAIL-Model.pdf to C:\Users\redst\Downloads\Survey Scans\00121416-EMAIL-Model.pdf
+INFO:root:Moved 12080410-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\12080410-LDP_PPD.pdf
+INFO:root:Moved 99060811-STAKEOUT2-Model.pdf to C:\Users\redst\Downloads\Survey Scans\99060811-STAKEOUT2-Model.pdf
+INFO:root:Moved 23030153-LDP2_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23030153-LDP2_PPD.pdf
+INFO:root:Moved 23030153-LDP3_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23030153-LDP3_PPD.pdf
+INFO:root:Moved 23050217_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23050217_PPD.pdf
+INFO:root:Moved 14060306-20 SCALE.pdf to C:\Users\redst\Downloads\Survey Scans\14060306-20 SCALE.pdf
+INFO:root:Moved 23020119-STAKEOUT3.pdf to C:\Users\redst\Downloads\Survey Scans\23020119-STAKEOUT3.pdf
+INFO:root:Moved 09090433_EMAIL-BDB-Model.pdf to C:\Users\redst\Downloads\Survey Scans\09090433_EMAIL-BDB-Model.pdf
+INFO:root:Moved 02010114_UPDATE_GWH.pdf to C:\Users\redst\Downloads\Survey Scans\02010114_UPDATE_GWH.pdf
+INFO:root:Moved 97111471-PROPOSED_PPD-Model.pdf to C:\Users\redst\Downloads\Survey Scans\97111471-PROPOSED_PPD-Model.pdf
+INFO:root:Moved 04111040-A_STAKEOUT.pdf to C:\Users\redst\Downloads\Survey Scans\04111040-A_STAKEOUT.pdf
+INFO:root:Moved 23050206-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23050206-LDP_PPD.pdf
+INFO:root:Moved 23070248-REVISED2_GWH-Model.pdf to C:\Users\redst\Downloads\Survey Scans\23070248-REVISED2_GWH-Model.pdf
+INFO:root:Moved 93091023_LDP_DSZ-Model.pdf to C:\Users\redst\Downloads\Survey Scans\93091023_LDP_DSZ-Model.pdf
+INFO:root:Moved 05080712-PRELIMINARY.pdf to C:\Users\redst\Downloads\Survey Scans\05080712-PRELIMINARY.pdf
+INFO:root:Moved 21100415-UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\21100415-UPDATE_PPD.pdf
+INFO:root:Moved 23050220-LDP_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23050220-LDP_PPD.pdf
+INFO:root:Moved 23030152-STAKEOUT_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23030152-STAKEOUT_PPD.pdf
+INFO:root:Moved 15100413_UPDATE_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\15100413_UPDATE_PPD.pdf
+INFO:root:Moved 23030153-LDP5_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\23030153-LDP5_PPD.pdf
+INFO:root:Moved 22060296-ROUGH-SO_PPD.pdf to C:\Users\redst\Downloads\Survey Scans\22060296-ROUGH-SO_PPD.pdf
+INFO:root:Moved plot.log to C:\Users\redst\Downloads\Misc\plot.log
+INFO:root:Moved testmaster2.pdf to C:\Users\redst\Downloads\PDFs\testmaster2.pdf
+INFO:root:Moved Meuser Floor Plans (4).pdf to C:\Users\redst\Downloads\PDFs\Meuser Floor Plans (4).pdf
+INFO:root:Moved Boundary - Topo .pdf to C:\Users\redst\Downloads\PDFs\Boundary - Topo .pdf
+INFO:root:Moved S-3.pdf to C:\Users\redst\Downloads\PDFs\S-3.pdf
+INFO:root:Moved FF.pdf to C:\Users\redst\Downloads\PDFs\FF.pdf
+INFO:root:Moved Crystal Lakes Curve Data.pdf to C:\Users\redst\Downloads\PDFs\Crystal Lakes Curve Data.pdf
+INFO:root:Moved ViewTiff.aspx.pdf to C:\Users\redst\Downloads\PDFs\ViewTiff.aspx.pdf
+INFO:root:Moved TEST2.pdf to C:\Users\redst\Downloads\PDFs\TEST2.pdf
+INFO:root:Moved WILD HORSE - LOT 16-Model.pdf to C:\Users\redst\Downloads\PDFs\WILD HORSE - LOT 16-Model.pdf
+INFO:root:Moved HIGHLANDS SUB - 2004 LONGMEADOW.pdf to C:\Users\redst\Downloads\PDFs\HIGHLANDS SUB - 2004 LONGMEADOW.pdf
+INFO:root:Moved KEN datE-Model.pdf to C:\Users\redst\Downloads\PDFs\KEN datE-Model.pdf
+INFO:root:Moved img20230620_14412235.pdf to C:\Users\redst\Downloads\PDFs\img20230620_14412235.pdf
+INFO:root:Moved Meuser Floor Plans (1).pdf to C:\Users\redst\Downloads\PDFs\Meuser Floor Plans (1).pdf
+INFO:root:Moved Cobblestone on Palmer Ranch Quote.pdf to C:\Users\redst\Downloads\PDFs\Cobblestone on Palmer Ranch Quote.pdf
+INFO:root:Moved FIELD NOTES - 2004 LONGMEADOW.pdf to C:\Users\redst\Downloads\PDFs\FIELD NOTES - 2004 LONGMEADOW.pdf
+INFO:root:Moved 260033.pdf to C:\Users\redst\Downloads\PDFs\260033.pdf
+INFO:root:Moved img20230524_09402126.pdf to C:\Users\redst\Downloads\PDFs\img20230524_09402126.pdf
+INFO:root:Moved section map.pdf to C:\Users\redst\Downloads\PDFs\section map.pdf
+INFO:root:Moved img20230516_14171909.pdf to C:\Users\redst\Downloads\PDFs\img20230516_14171909.pdf
+INFO:root:Moved O.R. Instrument 2003152098.pdf to C:\Users\redst\Downloads\PDFs\O.R. Instrument 2003152098.pdf
+INFO:root:Moved 340 Oxford Drive - Invoice.pdf to C:\Users\redst\Downloads\PDFs\340 Oxford Drive - Invoice.pdf
+INFO:root:Moved 2115 Couver Drive - Invoice.pdf to C:\Users\redst\Downloads\PDFs\2115 Couver Drive - Invoice.pdf
+INFO:root:Moved OR.pdf to C:\Users\redst\Downloads\PDFs\OR.pdf
+INFO:root:Moved PREVIOUS 5 ACRE MARK.pdf to C:\Users\redst\Downloads\PDFs\PREVIOUS 5 ACRE MARK.pdf
+INFO:root:Moved NextDocument (2).pdf to C:\Users\redst\Downloads\PDFs\NextDocument (2).pdf
+INFO:root:Moved 7589 cove terrace combinepdf - 2022-11-08T165706.024 (1).pdf to C:\Users\redst\Downloads\PDFs\7589 cove terrace combinepdf - 2022-11-08T165706.024 (1).pdf
+INFO:root:Moved img20230523_10512394.pdf to C:\Users\redst\Downloads\PDFs\img20230523_10512394.pdf
+INFO:root:Moved THE MEADOWS SUB - 2004 LONGMEADOW.pdf to C:\Users\redst\Downloads\PDFs\THE MEADOWS SUB - 2004 LONGMEADOW.pdf
+INFO:root:Moved S-34.pdf to C:\Users\redst\Downloads\PDFs\S-34.pdf
+INFO:root:Moved img20230515_10434353.pdf to C:\Users\redst\Downloads\PDFs\img20230515_10434353.pdf
+INFO:root:Moved NextDocument (1).pdf to C:\Users\redst\Downloads\PDFs\NextDocument (1).pdf
+INFO:root:Moved img20230524_12213302.pdf to C:\Users\redst\Downloads\PDFs\img20230524_12213302.pdf
+INFO:root:Moved 2022 MASTER2.pdf to C:\Users\redst\Downloads\PDFs\2022 MASTER2.pdf
+INFO:root:Moved 16801.pdf to C:\Users\redst\Downloads\PDFs\16801.pdf
+INFO:root:Moved 682 Mourning Dove - Paid Invoice.pdf to C:\Users\redst\Downloads\PDFs\682 Mourning Dove - Paid Invoice.pdf
+INFO:root:Moved KEN Seal-Model.pdf to C:\Users\redst\Downloads\PDFs\KEN Seal-Model.pdf
+INFO:root:Moved ARTICLE 6. - GENERAL, BASE, AND INACTIVE ZONING DISTRICT DEVELOPMENT STANDARDS _ Code of Ordinances _ Sarasota County, FL _ Municode Library.pdf to C:\Users\redst\Downloads\PDFs\ARTICLE 6. - GENERAL, BASE, AND INACTIVE ZONING DISTRICT DEVELOPMENT STANDARDS _ Code of Ordinances _ Sarasota County, FL _ Municode Library.pdf
+INFO:root:Moved REVISED 5 ACRE MARK.pdf to C:\Users\redst\Downloads\PDFs\REVISED 5 ACRE MARK.pdf
+INFO:root:Moved NextDocument.pdf to C:\Users\redst\Downloads\PDFs\NextDocument.pdf
+INFO:root:Moved S-4 (2).pdf to C:\Users\redst\Downloads\PDFs\S-4 (2).pdf
+INFO:root:Moved JESSMYTH FOR BILL (2)-Model.pdf to C:\Users\redst\Downloads\PDFs\JESSMYTH FOR BILL (2)-Model.pdf
+INFO:root:Moved 1755 8th street.pdf to C:\Users\redst\Downloads\PDFs\1755 8th street.pdf
+INFO:root:Moved TEST.pdf to C:\Users\redst\Downloads\PDFs\TEST.pdf
+INFO:root:Moved STANTEC SURVEY - 2004 LONGMEADOW.pdf to C:\Users\redst\Downloads\PDFs\STANTEC SURVEY - 2004 LONGMEADOW.pdf
+INFO:root:Moved EMAIL - 2004 LONGMEADOW.pdf to C:\Users\redst\Downloads\PDFs\EMAIL - 2004 LONGMEADOW.pdf
+INFO:root:Moved KEN SIGNATURE-Model.pdf to C:\Users\redst\Downloads\PDFs\KEN SIGNATURE-Model.pdf
+INFO:root:Moved 6080 Deacon - Curb Stakeout.pdf to C:\Users\redst\Downloads\PDFs\6080 Deacon - Curb Stakeout.pdf
+INFO:root:Moved img20230710_10075703.pdf to C:\Users\redst\Downloads\PDFs\img20230710_10075703.pdf
+INFO:root:Moved NEW 2022 MASTER.pdf to C:\Users\redst\Downloads\PDFs\NEW 2022 MASTER.pdf
+INFO:root:Moved img20230525_08532782.pdf to C:\Users\redst\Downloads\PDFs\img20230525_08532782.pdf
+INFO:root:Moved 925391-Model.pdf to C:\Users\redst\Downloads\PDFs\925391-Model.pdf
+INFO:root:Moved img20230517_11435647.pdf to C:\Users\redst\Downloads\PDFs\img20230517_11435647.pdf
+INFO:root:Moved CAD Plan Reference - Tidewood.pdf to C:\Users\redst\Downloads\PDFs\CAD Plan Reference - Tidewood.pdf
+INFO:root:Moved ACFrOgC9P0QlvzY16R8iF6y1Y_NTrwAgsSOTMvvS-jiXsxD5CyaEyimJaqL7PHDHelhdRlrxq51qsozJUSU6pYXufuJKGJ9JrEeQ7fh77O18IcT60zI-nporSDZGlCw=.pdf to C:\Users\redst\Downloads\PDFs\ACFrOgC9P0QlvzY16R8iF6y1Y_NTrwAgsSOTMvvS-jiXsxD5CyaEyimJaqL7PHDHelhdRlrxq51qsozJUSU6pYXufuJKGJ9JrEeQ7fh77O18IcT60zI-nporSDZGlCw=.pdf
+INFO:root:Moved img20230512_11115398.pdf to C:\Users\redst\Downloads\PDFs\img20230512_11115398.pdf
+INFO:root:Moved img20230515_15100527.pdf to C:\Users\redst\Downloads\PDFs\img20230515_15100527.pdf
+INFO:root:Moved img20230602_10021845.pdf to C:\Users\redst\Downloads\PDFs\img20230602_10021845.pdf
+INFO:root:Moved img20230515_11033404.pdf to C:\Users\redst\Downloads\PDFs\img20230515_11033404.pdf
+INFO:root:Files to move: ['ASCII Files', 'CAD Files', 'Compressed', 'Drawing1.dwl', 'Drawing1.dwl2', 'Drawing4.dwl', 'Drawing4.dwl2', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
+INFO:root:File Destinations: {'Images': set(), 'Survey Scans': set(), 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': {'Drawing1.dwl2', 'Drawing1.dwl', 'Drawing4.dwl2', 'Drawing4.dwl'}, 'ASCII Files': set(), 'Python Files': set()}
+INFO:root:Moved Drawing1.dwl2 to C:\Users\redst\Downloads\CAD Files\Drawing1.dwl2
+INFO:root:Moved Drawing1.dwl to C:\Users\redst\Downloads\CAD Files\Drawing1.dwl
+INFO:root:Moved Drawing4.dwl2 to C:\Users\redst\Downloads\CAD Files\Drawing4.dwl2
+INFO:root:Moved Drawing4.dwl to C:\Users\redst\Downloads\CAD Files\Drawing4.dwl

@@ -27,6 +27,9 @@ def move_file(
         logging.info(f"{source} is being downloaded; skipping move.")
         return
 
+    if os.path.exists(destination):
+        os.remove(destination)
+
     if os.path.exists(source):
         os.makedirs(os.path.dirname(destination), exist_ok=True)
         try:
