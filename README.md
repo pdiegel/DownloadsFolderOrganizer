@@ -27,7 +27,7 @@ The Downloads Folder Organizer is a Python script that helps organize files in t
 2. Navigate to the project directory:
 
    ```shell
-   cd downloads-folder-Organizer
+   cd DownloadsFolderOrganizer
    ```
 
 3. Install the required dependencies:
