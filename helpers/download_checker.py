@@ -1,5 +1,6 @@
 import os
 from typing import Dict, Tuple, List
+import logging
 
 
 class DownloadChecker:
@@ -33,11 +34,11 @@ class DownloadChecker:
         file_name = file.split("\\")[-1]
 
         if file_name not in self.file_info.keys():
-            print("File not in existing files.")
+            logging.info("File not in existing files.")
             return False
 
         if not os.path.exists(file):
-            print("File does not exist.")
+            logging.info("File does not exist.")
             return False
 
         file_size = os.path.getsize(file)

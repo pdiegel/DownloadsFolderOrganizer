@@ -3,3 +3,5 @@ INFO:root:File Destinations: {'Images': set(), 'Survey Scans': set(), 'Compresse
 INFO:root:Files to move: ['ASCII Files', 'CAD Files', 'Compressed', 'Develop Remote Instrumentation Site D-6.zip', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
 INFO:root:File Destinations: {'Images': set(), 'Survey Scans': set(), 'Compressed': {'Develop Remote Instrumentation Site D-6.zip'}, 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
 INFO:root:Moved Develop Remote Instrumentation Site D-6.zip to C:\Users\redst\Downloads\Compressed\Develop Remote Instrumentation Site D-6.zip
+INFO:root:Files to move: ['ASCII Files', 'CAD Files', 'Compressed', 'Images', 'Misc', 'ml-latest', 'ml-latest-small', 'PDFs', 'Python Files', 'Survey Scans', 'Word Docs']
+INFO:root:File Destinations: {'Images': set(), 'Survey Scans': set(), 'Compressed': set(), 'Misc': set(), 'Word Docs': set(), 'PDFs': set(), 'CAD Files': set(), 'ASCII Files': set(), 'Python Files': set()}
