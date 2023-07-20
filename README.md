@@ -1,6 +1,6 @@
 # Downloads Folder Organizer
 
-The Downloads Folder Formatter is a Python script that helps organize files in the downloads folder by moving them to their respective folders based on their file types. It provides a convenient way to keep your downloads folder tidy and well-organized.
+The Downloads Folder Organizer is a Python script that helps organize files in the downloads folder by moving them to their respective folders based on their file types. It provides a convenient way to keep your downloads folder tidy and well-organized.
 
 ## Features
 
@@ -21,13 +21,13 @@ The Downloads Folder Formatter is a Python script that helps organize files in t
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/downloads-folder-formatter.git
+   git clone https://github.com/pdiegel/DownloadsFolderOrganizer.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd downloads-folder-formatter
+   cd downloads-folder-Organizer
    ```
 
 3. Install the required dependencies:
