@@ -37,8 +37,12 @@ def get_non_pdf_file_destinations(
     for file in files:
         file_lower = file.lower()
         for folder, extensions in file_schema.items():
+            if file in file_schema.keys():
+                continue
             if file_lower.endswith(tuple(extensions.split())):
                 file_destinations[folder].add(file)
+            else:
+                file_destinations["Misc"].add(file)
 
     return file_destinations
 

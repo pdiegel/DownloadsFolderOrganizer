@@ -7,7 +7,7 @@ FOLDERS_TO_CREATE = {
     "Images": "jpg jpeg png gif bmp svg tiff heic",
     "Survey Scans": "pdf",
     "Compressed": "zip rar 7z tar gz",
-    "Misc": "txt csv log exe dmg pkg deb iso img msi html wmz rvt pem jp2 bin",
+    "Misc": "*",
     "Word Docs": "doc docx",
     "PDFs": "pdf",
     "CAD Files": "dwg dxf ini bak dwl dwl2",
